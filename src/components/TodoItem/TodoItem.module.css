@@ -1,0 +1,18 @@
+.card {
+  padding: 16px;
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  color: #000;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.todoItemComplete {
+  opacity: 0.5;
+}
+
+.todoLabel {
+  margin: 0;
+}

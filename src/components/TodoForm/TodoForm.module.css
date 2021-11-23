@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+}
+
+.inputField {
+  padding: 8px 16px;
+  border: 0;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-right: 8px;
+}
+
+.inputField:focus {
+  outline: 0;
+}
+
+.button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  color: #fff;
+  background-color: #4d4fdb;
+  border: 0;
+  font-size: 16px;
+}
+
+.button:focus {
+  outline: none;
+}
